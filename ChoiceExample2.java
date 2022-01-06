@@ -6,7 +6,7 @@ public class ChoiceExample2 {
 
     public ChoiceExample2() {
 
-        Frame frame = new Frame("Artificial Anarkali Urf Pathani Ka Ana Shaheed");
+        Frame frame = new Frame("Artificial Intelligent Anarkali Urf Pathani Ka Ana Shaheed");
 
         Label label = new Label();
 
